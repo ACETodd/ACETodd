@@ -1,7 +1,7 @@
 ### Hey, I'm Todd 👋
 
 ### Languages:
-    Javascript, Flutter, C#, Swift, Python
+    Javascript, Dart, C#, Swift, Python
     
 ### Goals:
      Code more lmao
