@@ -1,10 +1,10 @@
 ### Hey, I'm Todd 👋
 
-### Languages:
-    Javascript, Dart, C#, Swift, Python
+### doing:
+    React, React Native, Python, 
     
 ### Goals:
-     Learning React
+     Ship something
 <!--
 **ACETodd/ACETodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
